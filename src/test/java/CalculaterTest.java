@@ -19,4 +19,5 @@ public class CalculaterTest {
         int expectResult = 0;
         Assert.assertEquals(expectResult, actualResult);
     }
+
 }
